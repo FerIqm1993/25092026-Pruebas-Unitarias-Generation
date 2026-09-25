@@ -1,0 +1,24 @@
+{
+  "name": "25092026-pruebas-unitarias",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000u\u0000e\u0000b\u0000a\u0000s\u0000-\u0000u\u0000n\u0000i\u0000t\u0000a\u0000r\u0000i\u0000a\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerIqm1993/pruebas-unitarias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FerIqm1993/pruebas-unitarias/issues"
+  },
+  "homepage": "https://github.com/FerIqm1993/pruebas-unitarias#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
